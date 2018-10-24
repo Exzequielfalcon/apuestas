@@ -1,9 +1,9 @@
 <?php
 
 
-require_once "./model/ModelJuego.php";
 require_once "./view/ViewJuego.php";
 require_once "./model/ModelApuestas.php";
+require_once "./model/ModelJuego.php";
 require_once "Api.php";
 
 class ApuestasApiController extends Api{
